@@ -1,16 +1,17 @@
-### Hi there 👋
+# - 👋 Oi, eu sou AdrianoAraujo
+- 👀 Estou interessado em Estágio TI/Aux. TI
+- 🌱 Atualmente estou aprendendo...PYTHON/HTML/CSS/JS/BOOSTRAP
+- 📫 Como chegar até mim...: gravacellrs@outlook.com
 
-<!--
-**vigqapqth/vigqapqth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/vigqapqth">
+  <img heigth="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=vigqapqth&show_icons=true&theme=dracula"/>
+   
+  <img heigth="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigqapqth&layout=compact&langs_count=16&theme=dark"/>
+    
+    
+</div>
+  
+<div>
+  <a href="https://www.linkedin.com/in/adriano-bandeira-de-araujo-14a876226/"><img heigth="180em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
