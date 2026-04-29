@@ -1,7 +1,4 @@
-# - 👋 Oi, eu sou AdrianoAraujo
-- 👀 Estou interessado em Estágio TI/Aux. TI
-- 🌱 Atualmente estou aprendendo...PYTHON/HTML/CSS/JS/BOOTSTRAP
-- 📫 Como chegar até mim...: gravacellrs@outlook.com
+oi
 
 <div>
   <a href="https://github.com/vigqapqth">
